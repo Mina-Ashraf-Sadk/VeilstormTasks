@@ -1,0 +1,272 @@
+[+] Containers:
+ |- [+] Container: /Game/VeilstormTasks/Maps/Map1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:017394CF45B3BF2BCF7AB382975F2606 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_39 Label:SM_Ramp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1400.000 Y=1500.000 Z=0.000), Max=(X=1800.000 Y=1700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:174DF71143EA367D14F3838C26CC06DF BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:22043D904138D0E50DB05FB74FCA2289 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_60 Label:SM_QuarterCylinder13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=500.000 Z=0.000), Max=(X=2200.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:243A2084428544D88534E990D8BA5B83 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_38 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=1700.000 Z=0.000), Max=(X=1800.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:3E0D0C7A4D8FFA7CE31DB8AA2B2D1292 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_57 Label:SM_QuarterCylinder6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=2200.000 Z=0.000), Max=(X=1300.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:4F7B735A44E12B4B031927A9FC21C460 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_1 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:53E0A02C425D543A82D111875B762963 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_70B5E8A5F73F70ED01_1492401162 Label:SM_Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2520.000 Y=3400.000 Z=0.000), Max=(X=6070.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:55BB2E2F4AFA453E1F1285A3ADC7186D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_58 Label:SM_QuarterCylinder11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=700.000 Z=0.000), Max=(X=2400.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:5C7C5C40408F48C386D06CA03AB130C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1594956423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:630BBB2A455F61A4831DCB876C87977F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_70B5E8A5F73F70ED01_1527220164 Label:SM_Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2520.000 Y=240.000 Z=0.000), Max=(X=6070.000 Y=340.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:664A87DA48B6EE38C0ACEA9AEDBA4BA0 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:723128A2477074C68D9A5EA484DF76A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_46 Label:SM_Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1500.000 Z=0.000), Max=(X=2000.000 Y=2200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:788903924598EC8109F9709A8AB41C0D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:830FF81C457CA01C97438B95CD9DF038 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_34 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=2000.000 Z=0.013), Max=(X=1200.000 Y=2100.000 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:849471BF4CC37B4B04D1239EB500ECDE BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team2_SpawnPoint.BP_Team2_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team2_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1458038244 Label:Team2_SpawnPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1972.000 Y=3470.000 Z=-28.000), Max=(X=2228.000 Y=3838.000 Z=228.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team2 FolderGuid:92A764B24EAC81DB3DC9768DA0839E6D
+ |   |   |- Guid:84A6C2C04177158166E2439E0CBAE730 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_35 Label:SM_Ramp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=600.000 Z=0.000), Max=(X=1700.000 Y=800.000 Z=30.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:901C748940C0D4AB214A8B8BF7D39AEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_59 Label:SM_QuarterCylinder12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=700.000 Z=0.000), Max=(X=2200.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:96C16AF946CFF8929C47A09CAE7CD832 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_48 Label:SM_Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=2100.000 Z=100.000), Max=(X=2000.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:97625685428ED89E06818B996F1A508E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_53 Label:SM_QuarterCylinder3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=2200.000 Z=0.000), Max=(X=1600.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:9A8590F64719696F576D32BEA8B1AF88 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_50 Label:SM_QuarterCylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2500.000 Y=2800.000 Z=0.000), Max=(X=2600.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- Guid:9DDA90CC4BA6015F584BA7B81CF927DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_70B5E8A5F73F70ED01_1527215163 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=240.000 Z=0.000), Max=(X=2250.000 Y=340.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:9FFE6665469AE829D82050A8B1F67178 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:A25F61BD4F2EE2C7409611810AC3BAD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_52 Label:SM_Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2500.000 Y=2700.000 Z=0.000), Max=(X=2600.000 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- Guid:A7FB847A4A1DACD12053998C0C82FF9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_55 Label:SM_QuarterCylinder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2800.000 Z=0.000), Max=(X=400.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:A85A7AD046A0462D176E6889992C1216 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:A9409D9D45FD7A17B1C90FA055A98F81 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team1_SpawnPoint.BP_Team1_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team1_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1266597239 Label:Team1_SpawnPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2252.000 Y=-338.000 Z=92.000), Max=(X=2508.000 Y=30.000 Z=348.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team1 FolderGuid:70ECADC94A8AF535BFE880BBA7E2A06C
+ |   |   |- Guid:AA857C9F436500D6ED8E03A5806DCE50 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_44 Label:SM_Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2200.000 Z=0.000), Max=(X=1500.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:AE8AA01A4DE576B371C05FA79B282659 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_40 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=992.077 Y=2692.077 Z=0.013), Max=(X=1107.923 Y=2807.923 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B23C247D4E34A96052E563A19E79FA75 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:B9527F18436B4C90019C7C8AF398144B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_41 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=481.699 Y=2271.699 Z=0.013), Max=(X=618.301 Y=2408.301 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BC42D9B9467E38655AFC6DB667A61ECA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_49 Label:SM_Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=2600.000 Z=0.000), Max=(X=700.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:BD430F5245E33ECC56F7628FBABC5D84 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_33 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-970.000 Z=-50.000), Max=(X=6225.000 Y=4430.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:BFB671284CA12B07A4565ABBE4C17B4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_51 Label:SM_QuarterCylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2500.000 Y=2600.000 Z=0.000), Max=(X=2600.000 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- Guid:C6AE0DB449B5263F7BF01097DA585D22 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team2SafeZone.BP_Team2SafeZone_C NativeClass:/Script/Engine.Actor Name:BP_Team2SafeZone_C_UAID_70B5E8A5F73FBBED01_1172880350 Label:BP_Team2SafeZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2138.000 Y=3322.000 Z=-400.000), Max=(X=2682.000 Y=3578.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C752FDB9451B0FA0675D4B9D3E8B12AB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_56 Label:SM_Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2700.000 Z=0.000), Max=(X=400.000 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:D6CAE45C4E23DD1723795E8792894597 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_54 Label:SM_QuarterCylinder4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2600.000 Z=0.000), Max=(X=400.000 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- Guid:E7C88B004DFFF4BE08155AB223A0EF2C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- Guid:EA7331ED4138F6EBE0482183ABE1CE4C BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team1SafeZone.BP_Team1SafeZone_C NativeClass:/Script/Engine.Actor Name:BP_Team1SafeZone_C_UAID_70B5E8A5F73FBBED01_1164940348 Label:BP_Team1SafeZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2130.000 Y=162.000 Z=-392.000), Max=(X=2690.000 Y=418.000 Z=392.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ECF7DFF54DE28214A01D249B1B1CA773 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_42 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:ED44D5764FF89EE8D22B70876251A6C9 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team1_SpawnPoint.BP_Team1_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team1_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1465425246 Label:Team1_SpawnPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2672.000 Y=-338.000 Z=92.000), Max=(X=2928.000 Y=30.000 Z=348.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team1 FolderGuid:70ECADC94A8AF535BFE880BBA7E2A06C
+ |   |   |- Guid:ED634735430DB9B4198DF4A9A188273B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_61 Label:SM_QuarterCylinder14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=500.000 Z=0.000), Max=(X=2400.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- Guid:EF0E01F040510019AA8087B44A80C8E4 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team2_SpawnPoint.BP_Team2_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team2_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1456244243 Label:Team2_SpawnPoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2512.000 Y=3470.000 Z=-28.000), Max=(X=2768.000 Y=3838.000 Z=228.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team2 FolderGuid:92A764B24EAC81DB3DC9768DA0839E6D
+ |   |   |- Guid:F273828D468DD479CDB07EBF9F6EBA68 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_47 Label:SM_Ramp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1700.000 Z=100.000), Max=(X=2000.000 Y=2100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- Guid:F6974391454BE3281D0A9AAB775EBFF6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_43 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5950.000 Y=100.000 Z=0.000), Max=(X=6050.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- Guid:FC2659D1462E0C2787253D85D4D3D619 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_37 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=2250.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:017394CF45B3BF2BCF7AB382975F2606 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_39 Label:SM_Ramp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1400.000 Y=1500.000 Z=0.000), Max=(X=1800.000 Y=1700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:174DF71143EA367D14F3838C26CC06DF BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:22043D904138D0E50DB05FB74FCA2289 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_60 Label:SM_QuarterCylinder13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=500.000 Z=0.000), Max=(X=2200.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:243A2084428544D88534E990D8BA5B83 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_38 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=1700.000 Z=0.000), Max=(X=1800.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:3E0D0C7A4D8FFA7CE31DB8AA2B2D1292 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_57 Label:SM_QuarterCylinder6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=2200.000 Z=0.000), Max=(X=1300.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:4F7B735A44E12B4B031927A9FC21C460 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_1 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:53E0A02C425D543A82D111875B762963 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_70B5E8A5F73F70ED01_1492401162 Label:SM_Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2520.000 Y=3400.000 Z=0.000), Max=(X=6070.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:55BB2E2F4AFA453E1F1285A3ADC7186D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_58 Label:SM_QuarterCylinder11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=700.000 Z=0.000), Max=(X=2400.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:5C7C5C40408F48C386D06CA03AB130C2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1594956423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:630BBB2A455F61A4831DCB876C87977F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_70B5E8A5F73F70ED01_1527220164 Label:SM_Cube16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2520.000 Y=240.000 Z=0.000), Max=(X=6070.000 Y=340.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:664A87DA48B6EE38C0ACEA9AEDBA4BA0 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:723128A2477074C68D9A5EA484DF76A8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_46 Label:SM_Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1500.000 Z=0.000), Max=(X=2000.000 Y=2200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:788903924598EC8109F9709A8AB41C0D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:830FF81C457CA01C97438B95CD9DF038 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_34 Label:SM_ChamferCube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1100.000 Y=2000.000 Z=0.013), Max=(X=1200.000 Y=2100.000 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:849471BF4CC37B4B04D1239EB500ECDE BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team2_SpawnPoint.BP_Team2_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team2_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1458038244 Label:Team2_SpawnPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1972.000 Y=3470.000 Z=-28.000), Max=(X=2228.000 Y=3838.000 Z=228.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team2 FolderGuid:92A764B24EAC81DB3DC9768DA0839E6D
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:84A6C2C04177158166E2439E0CBAE730 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_35 Label:SM_Ramp SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=600.000 Z=0.000), Max=(X=1700.000 Y=800.000 Z=30.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:901C748940C0D4AB214A8B8BF7D39AEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_59 Label:SM_QuarterCylinder12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2000.000 Y=700.000 Z=0.000), Max=(X=2200.000 Y=900.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:96C16AF946CFF8929C47A09CAE7CD832 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_48 Label:SM_Cube10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=2100.000 Z=100.000), Max=(X=2000.000 Y=2200.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:97625685428ED89E06818B996F1A508E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_53 Label:SM_QuarterCylinder3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=2200.000 Z=0.000), Max=(X=1600.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:9A8590F64719696F576D32BEA8B1AF88 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_50 Label:SM_QuarterCylinder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2500.000 Y=2800.000 Z=0.000), Max=(X=2600.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:9DDA90CC4BA6015F584BA7B81CF927DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_70B5E8A5F73F70ED01_1527215163 Label:SM_Cube8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=240.000 Z=0.000), Max=(X=2250.000 Y=340.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:9FFE6665469AE829D82050A8B1F67178 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:A25F61BD4F2EE2C7409611810AC3BAD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_52 Label:SM_Cube12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2500.000 Y=2700.000 Z=0.000), Max=(X=2600.000 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:A7FB847A4A1DACD12053998C0C82FF9C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_55 Label:SM_QuarterCylinder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2800.000 Z=0.000), Max=(X=400.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:A85A7AD046A0462D176E6889992C1216 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:A9409D9D45FD7A17B1C90FA055A98F81 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team1_SpawnPoint.BP_Team1_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team1_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1266597239 Label:Team1_SpawnPoint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2252.000 Y=-338.000 Z=92.000), Max=(X=2508.000 Y=30.000 Z=348.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team1 FolderGuid:70ECADC94A8AF535BFE880BBA7E2A06C
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:AA857C9F436500D6ED8E03A5806DCE50 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_44 Label:SM_Cube7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2200.000 Z=0.000), Max=(X=1500.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:AE8AA01A4DE576B371C05FA79B282659 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_40 Label:SM_ChamferCube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=992.077 Y=2692.077 Z=0.013), Max=(X=1107.923 Y=2807.923 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:B23C247D4E34A96052E563A19E79FA75 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:B9527F18436B4C90019C7C8AF398144B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_41 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=481.699 Y=2271.699 Z=0.013), Max=(X=618.301 Y=2408.301 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:BC42D9B9467E38655AFC6DB667A61ECA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_49 Label:SM_Cube11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=2600.000 Z=0.000), Max=(X=700.000 Y=2900.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:BD430F5245E33ECC56F7628FBABC5D84 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_33 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-970.000 Z=-50.000), Max=(X=6225.000 Y=4430.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:BFB671284CA12B07A4565ABBE4C17B4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_51 Label:SM_QuarterCylinder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2500.000 Y=2600.000 Z=0.000), Max=(X=2600.000 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block02 FolderGuid:5DDF0B274F9C8B2C5DABA1999B167516
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:C6AE0DB449B5263F7BF01097DA585D22 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team2SafeZone.BP_Team2SafeZone_C NativeClass:/Script/Engine.Actor Name:BP_Team2SafeZone_C_UAID_70B5E8A5F73FBBED01_1172880350 Label:BP_Team2SafeZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2138.000 Y=3322.000 Z=-400.000), Max=(X=2682.000 Y=3578.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:C752FDB9451B0FA0675D4B9D3E8B12AB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_56 Label:SM_Cube13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2700.000 Z=0.000), Max=(X=400.000 Y=2800.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:D6CAE45C4E23DD1723795E8792894597 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_54 Label:SM_QuarterCylinder4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=300.000 Y=2600.000 Z=0.000), Max=(X=400.000 Y=2700.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block03 FolderGuid:8CD3949449A9ED1D3F209CA69A64B60F
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:E7C88B004DFFF4BE08155AB223A0EF2C BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:08A10B054C95868C663DE39EE4343813
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:EA7331ED4138F6EBE0482183ABE1CE4C BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team1SafeZone.BP_Team1SafeZone_C NativeClass:/Script/Engine.Actor Name:BP_Team1SafeZone_C_UAID_70B5E8A5F73FBBED01_1164940348 Label:BP_Team1SafeZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2130.000 Y=162.000 Z=-392.000), Max=(X=2690.000 Y=418.000 Z=392.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:ECF7DFF54DE28214A01D249B1B1CA773 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_42 Label:SM_Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.000 Y=100.000 Z=0.000), Max=(X=100.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:ED44D5764FF89EE8D22B70876251A6C9 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team1_SpawnPoint.BP_Team1_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team1_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1465425246 Label:Team1_SpawnPoint3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2672.000 Y=-338.000 Z=92.000), Max=(X=2928.000 Y=30.000 Z=348.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team1 FolderGuid:70ECADC94A8AF535BFE880BBA7E2A06C
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:ED634735430DB9B4198DF4A9A188273B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_61 Label:SM_QuarterCylinder14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2200.000 Y=500.000 Z=0.000), Max=(X=2400.000 Y=700.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Cylinder FolderGuid:ECA4956E419DA4E5BAB7F389537BCB14
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:EF0E01F040510019AA8087B44A80C8E4 BaseClass:/Game/VeilstormTasks/Core/ActorsBP/BP_Team2_SpawnPoint.BP_Team2_SpawnPoint_C NativeClass:/Script/Engine.Actor Name:Team2_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1456244243 Label:Team2_SpawnPoint2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2512.000 Y=3470.000 Z=-28.000), Max=(X=2768.000 Y=3838.000 Z=228.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Team2 FolderGuid:92A764B24EAC81DB3DC9768DA0839E6D
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:F273828D468DD479CDB07EBF9F6EBA68 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_47 Label:SM_Ramp3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1800.000 Y=1700.000 Z=100.000), Max=(X=2000.000 Y=2100.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:98087B8444A89373CC4763B3845E270A
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:F6974391454BE3281D0A9AAB775EBFF6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_43 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5950.000 Y=100.000 Z=0.000), Max=(X=6050.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:FC2659D1462E0C2787253D85D4D3D619 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_37 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3400.000 Z=0.000), Max=(X=2250.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:8CD33C9A4E75AD59B95486AC740693D6
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/VeilstormTasks/Maps/Map1
+----------------------------------------------------------------------------------------------------------------
+Map1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Map1 Persistent Level
+ |- Always loaded Actor Count: 52 
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.BP_Team1SafeZone_C_UAID_70B5E8A5F73FBBED01_1164940348
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/4/P4/XZZJYVC1OQDVZ1820KMTJ1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.BP_Team2SafeZone_C_UAID_70B5E8A5F73FBBED01_1172880350
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/0/NU/ZEAC8GWONEPB3EPBKKF9YS
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Brush_0
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.ChaosDebugDrawActor
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/E/H1/RUWFPCP03A9QU3J3YVUKNF
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.ExponentialHeightFog_1
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/4/Z7/QYF4A48LH2PXXNKK63AHEH
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Level1_C_1
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/1/GC/KPZ3H2V75C7XVNDWCLVVSY
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.SkyAtmosphere_1
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/C/6M/59VXHFVINCP237CR87LKPW
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/8/PR/Z4WXEX6KHTF8SFWJXS1B1M
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_33
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/7/DH/6KEQ00JXDUF43KFQ54DTXO
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_34
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/8/ST/P6U7E1U8ZECH7TEF55HLPG
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_35
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/F/46/0D3215AAV23KZTKC1FYYM2
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_37
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/9/PG/PJ48SXKXJ1NH38FODWJTKQ
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_38
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/D/J6/6C8OMHJSWY45GRRAMF492R
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_39
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/D/CW/Q6ON09DOVPJDWIZFJ5G6RI
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_40
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/8/QW/KW6CJ0K7BPM2NGTWCAYFRA
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_41
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/9/FQ/FVNHQELB5S38LDANK7623S
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_42
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/9/LD/AVXLBXY5I3ZK6J8EI23OGM
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_43
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/2/DI/K3JHDXJ07VII9EKNEC4GQN
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_44
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/0/TX/ZAVFEF73WX6TYZZGP0WND3
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_46
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/E/X1/M6Q868SHF4J7PH2EW6IAXN
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_47
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/B/LZ/0M93NZ4KR9Y5WD9K7IE10H
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_48
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/1/C4/L0GUU5Y8FGJORDWAE4WERK
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_49
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/5/C9/D66FZO7KDYBRWKJHKX0JV1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_50
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/1/GC/LAKKC5FN2UEBHDLN50K0YW
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_51
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/0/B4/MQD8UUV2RXAE6S9Q39JO9Z
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_52
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/E/TL/DHJAIXWLSL03M50WA6ZFQQ
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_53
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/D/AX/U8HL49MF4A3SYP7QM768RW
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_54
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/D/CP/BTCRLFI1AJOY4ZDPYRSDQC
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_55
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/2/I6/WVLFAXIYQPUFY0OWUU9HN1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_56
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/5/P8/9M042NP6PAC7D5ZXQG5E21
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_57
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/3/EL/TBNS9FN9D0U8IUL4YEUVMZ
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_58
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/8/A6/I5VZ8WYZAHBS4ZY5W0HFJX
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_59
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/3/CK/LU0M2ICMMO80WRS0DTSNZM
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_60
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/B/VE/L1ALU16WDPGWE5ZSI2P8F4
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_61
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/B/QV/3R04W1FAJF0NTP9RCMKMV4
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_UAID_70B5E8A5F73F70ED01_1492401162
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/B/9Q/690AL98EWUI5YVV3QAAA2F
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_UAID_70B5E8A5F73F70ED01_1527215163
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/B/GC/TY9F32DOPS2STXBU7K6V9S
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_UAID_70B5E8A5F73F70ED01_1527220164
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/E/2F/54MZV7E7ECQZ8V71ITSPYL
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1594956423
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/C/H9/NPA5ZF0KKG2D6NN1G91KH0
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Team1_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1266597239
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/7/B6/8E7305DH82DZV4CFNDQLS9
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Team1_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1465425246
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/5/SA/RLUZ0WRZBGK75Y55NF9AIT
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Team2_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1456244243
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/0/TT/1V5O3MPTUL5K2FDPENP6LO
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.Team2_SpawnPoint_C_UAID_70B5E8A5F73F9EED01_1458038244
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/4/Y9/G7M870PHDLT4E6R3E1Q74U
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.TextRenderActor_1
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/9/8Q/WOCIB2RE27AGIS71JXVPH5
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.VolumetricCloud_1
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/C/5N/TJ4FGDU1F7YWTD7V3BLQ3Q
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1_InstanceOf_/Game/__ExternalActors__/VeilstormTasks/Maps/Map1/8/BE/77UFKGA6A0TV1UIS6VTB2J
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1
+ |- Actor Path: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1.Map1:PersistentLevel.WorldPartitionReplay
+ |- Actor Package: /Game/VeilstormTasks/Maps/UEDPIE_2_Map1
+
+----------------------------------------------------------------------------------------------------------------
+Map1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
