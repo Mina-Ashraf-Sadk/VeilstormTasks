@@ -1249,3 +1249,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.21-07.29.26:943][254]LogSlate: Took 0.001788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2024.04.21-07.29.31:805][524]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2024.04.21-07.29.31:805][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.21-07.30.55:839][850]LogDerivedDataCache: C:/Users/Mina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.278 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3281 files in 4637 folders with total size 108 MiB.
